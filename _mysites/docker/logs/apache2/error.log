@@ -1,0 +1,2 @@
+[Sat Mar 27 17:02:13.966241 2021] [proxy_fcgi:error] [pid 8:tid 139645350217472] [client 172.18.0.1:61570] AH01071: Got error 'Primary script unknown', referer: http://localhost:8080/yiendos/index.php/2021/03/27/hello-world/
+[Sat Mar 27 17:02:14.362296 2021] [proxy_fcgi:error] [pid 9:tid 139645518112512] [client 172.18.0.1:61580] AH01071: Got error 'Primary script unknown', referer: http://localhost:8080/yiendos/wp-cron.php?doing_wp_cron=1616864534.3444149494171142578125
